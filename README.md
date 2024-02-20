@@ -1,4 +1,4 @@
-# Proyecto final de 5to Informatica: Gestor de calificaciones.
+# Proyecto Final de 5to Informática: Gestor de calificaciones.
 ¡Bienvenido a nuestro emocionante proyecto desarrollado por estudiantes de quinto año de Informática! Esta aplicación en C# representa el fruto de nuestro esfuerzo colaborativo durante el período escolar 2023-2034. Se trata de una aplicación de código abierto destinada a brindar soluciones innovadoras en el ámbito de la informática.
 
 ## Características Destacadas:
