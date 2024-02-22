@@ -40,7 +40,7 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 </div>
-` 
+
 ### 🛠️ Características Destacadas
 
 - [**C#**](https://astro.build/): Desarrollado en C# con Programación Orientada a Objetos.
