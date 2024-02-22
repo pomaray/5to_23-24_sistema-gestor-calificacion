@@ -6,28 +6,6 @@
 <p>¡Bienvenido al Sistema Gestor de Calificaciones desarrollado por estudiantes de quinto año de Informática! Este proyecto representa nuestro esfuerzo colaborativo durante el período escolar 2023-2034. La aplicación está diseñada en C# con un enfoque en Programación Orientada a Objetos y sigue una arquitectura MVC utilizando Windows Forms y Guna Framework para la interfaz de usuario.</p>
 </div>
 
-<div align="center">
-    <a href="#" target="_blank">
-        Preview
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Caracteristicas-Destacadas">
-        Caracteristicas Destacadas
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Issues-y-Pull-Requests">
-        Como Contribuir
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Revisiones-y-comentarios">
-        Revisiones y Comentarios
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#Contribuciones">
-        Contribuciones
-    </a>
-</div>
-
 <p></p>
 
 <div align="center">
@@ -37,7 +15,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/pomaray/5to_23-24_sistema-gestor-calificacion)
 ![GitHub forks](https://img.shields.io/github/forks/pomaray/5to_23-24_sistema-gestor-calificacion)
 ![GitHub PRs](https://img.shields.io/github/issues-pr/pomaray/5to_23-24_sistema-gestor-calificacion)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 </div>
 
