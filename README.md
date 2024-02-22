@@ -44,7 +44,7 @@ Tu opinión y feedback son valiosos para nosotros. Si no estás seguro de cómo 
 
 Este proyecto es una oportunidad para aprender y crecer juntos como comunidad. Esperamos que encuentres valor en nuestra aplicación y que te sientas inspirado para contribuir y compartir tus conocimientos. ¡Bienvenido a bordo!
 
-## Contribuciones
+<h1> Contribuciones </h1>
 <a href="https://github.com/pomaray/5to_23-24_sistema-gestor-calificacion/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pomaray/5to_23-24_sistema-gestor-calificacion" />
 </a>
