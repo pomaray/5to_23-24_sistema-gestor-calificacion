@@ -21,7 +21,7 @@
 ### 🛠️ Características Destacadas
 
 - [**C#**](https://astro.build/): Desarrollado en C# con Programación Orientada a Objetos.
-- [**Windows Form**](https://www.typescriptlang.org/): Biblioteca de clases gráficas.
+- [**Windows Form**](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0): Biblioteca de clases gráficas.
 - [**Guna Framework**](https://gunaframework.com/): Un framework de interfaz de usuario elegante y moderno para aplicaciones de Windows Forms.
 - [**SQL Server**](https://www.microsoft.com/en-us/sql-server): Sistema de gestión de bases de datos relacional desarrollado por Microsoft.
 - [**Arquitectura MVC (Modelo-Vista-Controlador)**](https://fontsource.org/): Modelo de diseño que separa la lógica de la aplicación en tres componentes: el modelo, la vista y el controlador.
