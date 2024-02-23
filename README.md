@@ -53,7 +53,7 @@ Tu opinión y feedback son valiosos para nosotros. Si no estás seguro de cómo 
 >[!note]
 >**Recuerda seguir las mejores prácticas de programación y respetar los estándares de codificación establecidos en el proyecto**
 
->[!important]
+>[!note]
 >**Antes de realizar cambios significativos en el código, asegúrate de discutirlos con el equipo para evitar conflictos y mantener la coherencia del proyecto.**
 
 ¡Gracias por tu interés en contribuir a nuestro proyecto!
@@ -61,6 +61,11 @@ Tu opinión y feedback son valiosos para nosotros. Si no estás seguro de cómo 
 ---
 
 Este proyecto es una oportunidad para aprender y crecer juntos como comunidad. Esperamos que encuentres valor en nuestra aplicación y que te sientas inspirado para contribuir y compartir tus conocimientos. ¡Bienvenido a bordo!
+
+## 🔑 Licencia
+
+[MIT](#) - Creada ór [**Katia-tsx**](https://katia-tdx).
+
 
 <h1> Contribuciones </h1>
 <a href="https://github.com/pomaray/5to_23-24_sistema-gestor-calificacion/graphs/contributors">
