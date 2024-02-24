@@ -26,7 +26,10 @@
 - [**SQL Server**](https://www.microsoft.com/en-us/sql-server): Sistema de gestión de bases de datos relacional desarrollado por Microsoft.
 - [**Arquitectura MVC (Modelo-Vista-Controlador)**](https://fontsource.org/): Modelo de diseño que separa la lógica de la aplicación en tres componentes: el modelo, la vista y el controlador.
 
-## 🚀 Contribuciones al Proyecto
+<h1> 🚀 Contribuciones al Proyecto </h1>
+<a href="https://github.com/pomaray/5to_23-24_sistema-gestor-calificacion/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pomaray/5to_23-24_sistema-gestor-calificacion" />
+</a>
 
 ¡Estamos abiertos a recibir contribuciones de la comunidad para mejorar nuestro sistema! Si deseas colaborar, aquí hay algunas formas de hacerlo:
 
@@ -67,7 +70,3 @@ Este proyecto es una oportunidad para aprender y crecer juntos como comunidad. E
 Este proyecto está bajo la Licencia [MIT](#). Para más información, por favor lee el archivo LICENSE en este repositorio.
 
 
-<h1> Contribuciones </h1>
-<a href="https://github.com/pomaray/5to_23-24_sistema-gestor-calificacion/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pomaray/5to_23-24_sistema-gestor-calificacion" />
-</a>
