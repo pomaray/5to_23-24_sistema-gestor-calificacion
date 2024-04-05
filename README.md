@@ -67,6 +67,6 @@ Este proyecto es una oportunidad para aprender y crecer juntos como comunidad. E
 
 ## 🔑 Licencia
 
-Este proyecto está bajo la Licencia [MIT](#). Para más información, por favor lee el archivo LICENSE en este repositorio.
+Este proyecto está bajo la Licencia [MIT](/LICENSE). Para más información, por favor lee el archivo LICENSE en este repositorio.
 
 
