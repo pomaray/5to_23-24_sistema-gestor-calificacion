@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartProgram>C:\Users\IDEAMII INDUSTRAL\source\repos\pomaray\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe</StartProgram>
+  </PropertyGroup>
+</Project>

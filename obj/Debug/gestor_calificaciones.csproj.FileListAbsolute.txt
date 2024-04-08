@@ -1,0 +1,12 @@
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe.config
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.pdb
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\bin\Debug\Guna.UI2.dll
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.AssemblyReference.cache
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.Materias.resources
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.Properties.Resources.resources
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.GenerateResource.cache
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.CopyComplete
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.exe
+C:\Users\IDEAMII INDUSTRAL\Source\Repos\pomaray\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.pdb
