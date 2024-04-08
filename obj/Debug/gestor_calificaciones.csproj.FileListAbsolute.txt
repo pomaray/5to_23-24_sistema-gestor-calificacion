@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\D20A3395\source\repos\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe.config
 C:\Users\D20A3395\source\repos\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe
 C:\Users\D20A3395\source\repos\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.pdb
@@ -11,3 +12,17 @@ C:\Users\D20A3395\source\repos\5to_23-24_sistema-gestor-calificacion\obj\Debug\g
 C:\Users\D20A3395\Source\Repos\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.Form1.resources
 C:\Users\D20A3395\source\repos\5to_23-24_sistema-gestor-calificacion\bin\Debug\Guna.UI2.dll
 C:\Users\D20A3395\source\repos\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.CopyComplete
+=======
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe.config
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.exe
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\bin\Debug\gestor_calificaciones.pdb
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\bin\Debug\Guna.UI2.dll
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.AssemblyReference.cache
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.Properties.Resources.resources
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.GenerateResource.cache
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.csproj.CopyComplete
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.exe
+C:\Users\ysand\Desktop\5to_23-24_sistema-gestor-calificacion\obj\Debug\gestor_calificaciones.pdb
+>>>>>>> 640a43809ff09a14b5718dda0387632f3d550ca7
