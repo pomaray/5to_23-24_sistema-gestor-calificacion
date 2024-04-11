@@ -322,7 +322,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::gestor_calificaciones.Properties.Resources.logooooo_removebg_preview;
+            this.pictureBox1.Image = global::gestor_calificaciones.Properties.Resources.Imagen_de_WhatsApp_2024_03_19_a_las_11_16_22_ed7a0fbb_removebg_preview;
             this.pictureBox1.Location = new System.Drawing.Point(32, 10);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(162, 108);
