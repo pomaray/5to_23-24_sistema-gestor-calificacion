@@ -33,7 +33,18 @@
 
 ¡Estamos abiertos a recibir contribuciones de la comunidad para mejorar nuestro sistema! Si deseas colaborar, aquí hay algunas formas de hacerlo:
 
-### Issues y Pull Requests
+# Diseño y Maquetación
+
+## Formulario de Estudiantes
+![Formulario Estudiante](/Design/Estudiantes.png)
+
+## Formulario de Profesores
+![Formulario Profesor](/Design/Profesores.png)
+
+## Formulario de Materias
+![Formulario Materia](/Design//Materias.png)
+
+## Issues y Pull Requests
 
 >[!note]
 >Si encuentras algún problema o tienes alguna idea para mejorar el proyecto, crea un issue en GitHub. Asegúrate de proporcionar una descripción detallada del problema o la mejora que propones.
@@ -47,7 +58,7 @@ Si deseas contribuir directamente al código, puedes hacerlo a través de pull r
 5. **Sube los cambios** a tu repositorio en GitHub (`git push origin mi-nueva-caracteristica`).
 6. **Abre una pull request** en el repositorio original y describe tus cambios detalladamente.
 
-### Revisiones y Comentarios
+## Revisiones y Comentarios
 
 Tu opinión y feedback son valiosos para nosotros. Si no estás seguro de cómo contribuir, ¡no dudes en comentar en los issues o en las pull requests!
 
