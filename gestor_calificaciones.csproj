@@ -83,6 +83,12 @@
     <Compile Include="Forms\maestro.Designer.cs">
       <DependentUpon>maestro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Materias_tecnicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Materias_tecnicas.Designer.cs">
+      <DependentUpon>Materias_tecnicas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,6 +111,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\maestro.resx">
       <DependentUpon>maestro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Materias_tecnicas.resx">
+      <DependentUpon>Materias_tecnicas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -174,6 +183,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\imprimir-contorno-del-boton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signo de mas.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
