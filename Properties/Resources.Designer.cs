@@ -193,6 +193,16 @@ namespace gestor_calificaciones.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap libros {
+            get {
+                object obj = ResourceManager.GetObject("libros", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logooooo_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("logooooo-removebg-preview", resourceCulture);
@@ -206,6 +216,16 @@ namespace gestor_calificaciones.Properties {
         internal static System.Drawing.Bitmap maestro {
             get {
                 object obj = ResourceManager.GetObject("maestro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap signo_de_mas {
+            get {
+                object obj = ResourceManager.GetObject("signo de mas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
