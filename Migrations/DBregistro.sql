@@ -40,6 +40,8 @@ CREATE TABLE [dbo].[DOCENTE](
 	[primer_apellido] [varchar](100) NOT NULL,
 	[segundo_apellido] [varchar](100) NOT NULL,
 	[cedula] [varchar](20) NOT NULL,
+	[correo] [varchar](120) NOT NULL,
+	[num_telefonico] [varchar](20) NOT NULL,
 	[ID_AC1] [int] NULL,
 	[ID_TE1] [int] NULL,
 	[ID_MATERIA1] [int] NULL,
