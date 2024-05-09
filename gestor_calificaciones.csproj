@@ -32,9 +32,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
-      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    <Reference Include="Guna.UI2, Version=2.0.4.5, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.5\lib\net472\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -127,11 +131,11 @@
     <Compile Include="PersonaDAL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Forms\Crear_Tecnica.aa.resx">
-      <DependentUpon>Crear_Tecnica.cs</DependentUpon>
+    <EmbeddedResource Include="Agregar.resx">
+      <DependentUpon>Agregar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Crear_Tecnica.resx">
-      <DependentUpon>Crear_Tecnica.cs</DependentUpon>
+    <EmbeddedResource Include="Estudiante.resx">
+      <DependentUpon>Estudiante.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Docente.resx">
       <DependentUpon>Docente.cs</DependentUpon>
@@ -170,6 +174,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="DBregistroDataSet.xsc">
+      <DependentUpon>DBregistroDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DBregistroDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBregistroDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBregistroDataSet.xss">
+      <DependentUpon>DBregistroDataSet.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
