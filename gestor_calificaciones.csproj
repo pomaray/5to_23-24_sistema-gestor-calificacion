@@ -56,22 +56,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Agregar.cs">
+    <Compile Include="Classes_Tecnicas\BD.cs" />
+    <Compile Include="Classes_Tecnicas\Tecnica.cs" />
+    <Compile Include="Classes_Tecnicas\TecnicaRE.cs" />
+    <Compile Include="Forms\Crear_Tecnica.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Agregar.Designer.cs">
-      <DependentUpon>Agregar.cs</DependentUpon>
-    </Compile>
-    <Compile Include="DBregistroDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DBregistroDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="Estudiante.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Estudiante.Designer.cs">
-      <DependentUpon>Estudiante.cs</DependentUpon>
+    <Compile Include="Forms\Crear_Tecnica.Designer.cs">
+      <DependentUpon>Crear_Tecnica.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Estudiantes.cs">
       <SubType>Form</SubType>
@@ -104,6 +96,18 @@
     <Compile Include="Forms\maestro.Designer.cs">
       <DependentUpon>maestro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Materias_tecnicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Materias_tecnicas.Designer.cs">
+      <DependentUpon>Materias_tecnicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\tecnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\tecnica.Designer.cs">
+      <DependentUpon>tecnica.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -129,6 +133,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\maestro.resx">
       <DependentUpon>maestro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Materias_tecnicas.resx">
+      <DependentUpon>Materias_tecnicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\tecnica.resx">
+      <DependentUpon>tecnica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -209,6 +219,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\imprimir-contorno-del-boton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signo de mas.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
