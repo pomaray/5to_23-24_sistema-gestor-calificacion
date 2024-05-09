@@ -1,4 +1,5 @@
-﻿using System;
+﻿using gestor_calificaciones.Forms;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace gestor_calificaciones
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());
+            Application.Run(new tecnica());
         }
     }
 }

@@ -52,6 +52,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes_Tecnicas\BD.cs" />
+    <Compile Include="Classes_Tecnicas\Tecnica.cs" />
+    <Compile Include="Classes_Tecnicas\TecnicaRE.cs" />
+    <Compile Include="Forms\Crear_Tecnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Crear_Tecnica.Designer.cs">
+      <DependentUpon>Crear_Tecnica.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Estudiantes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -89,6 +98,12 @@
     <Compile Include="Forms\Materias_tecnicas.Designer.cs">
       <DependentUpon>Materias_tecnicas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\tecnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\tecnica.Designer.cs">
+      <DependentUpon>tecnica.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +112,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Crear_Tecnica.aa.resx">
+      <DependentUpon>Crear_Tecnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Crear_Tecnica.resx">
+      <DependentUpon>Crear_Tecnica.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Estudiantes.resx">
       <DependentUpon>Estudiantes.cs</DependentUpon>
     </EmbeddedResource>
@@ -114,6 +135,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Materias_tecnicas.resx">
       <DependentUpon>Materias_tecnicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\tecnica.resx">
+      <DependentUpon>tecnica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
