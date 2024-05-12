@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace gestor_calificaciones.Forms
 {
-    public partial class Estudiantes : Form
+    public partial class Registrar_Profesores_Diseño_Ysandis_ : Form
     {
-        public Estudiantes()
+        public Registrar_Profesores_Diseño_Ysandis_()
         {
             InitializeComponent();
-        }
-
-        private void Estudiantes_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
