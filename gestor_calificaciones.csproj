@@ -60,6 +60,12 @@
     <Compile Include="Classes_Tecnicas\BD.cs" />
     <Compile Include="Classes_Tecnicas\Tecnica.cs" />
     <Compile Include="Classes_Tecnicas\TecnicaRE.cs" />
+    <Compile Include="Forms\Boletin de notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Boletin de notas.Designer.cs">
+      <DependentUpon>Boletin de notas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Crear%28Diseño_Ysandis%29.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -167,6 +173,9 @@
     <EmbeddedResource Include="Estudiante.resx">
       <DependentUpon>Estudiante.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Boletin de notas.resx">
+      <DependentUpon>Boletin de notas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Crear%28Diseño_Ysandis%29.resx">
       <DependentUpon>Crear%28Diseño_Ysandis%29.cs</DependentUpon>
     </EmbeddedResource>
@@ -211,6 +220,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\tecnica.resx">
       <DependentUpon>tecnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
