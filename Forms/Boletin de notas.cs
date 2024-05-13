@@ -16,5 +16,10 @@ namespace gestor_calificaciones.Forms
         {
             InitializeComponent();
         }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
