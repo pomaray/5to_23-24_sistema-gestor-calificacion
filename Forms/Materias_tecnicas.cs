@@ -16,5 +16,10 @@ namespace gestor_calificaciones.Forms
         {
             InitializeComponent();
         }
+
+        private void Materias_tecnicas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

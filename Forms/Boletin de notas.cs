@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace gestor_calificaciones.Forms
 {
-    public partial class Estudiantes : Form
+    public partial class Boletin_de_notas : Form
     {
-        public Estudiantes()
+        public Boletin_de_notas()
         {
             InitializeComponent();
         }
 
-        private void Estudiantes_Load(object sender, EventArgs e)
+        private void label14_Click(object sender, EventArgs e)
         {
 
         }
